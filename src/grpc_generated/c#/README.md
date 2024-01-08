@@ -67,5 +67,5 @@ Make sure csproj has the newly added *.proto and then rebuild the solution:
   </ItemGroup>
 ```
 
-Once compiled, one should notice the generated *.cs files (GrpcService.cs, GrpcServiceGrpc.cs, ModelConfig.cs, ModelConfigGrpc.cs, etc...) under obj folder, like obj\x64\Debug\net6.0. The C# example SimpleCSharpclient.cs shows details how to use it.
+Once compiled, one should notice the generated *.cs files (GrpcService.cs, GrpcServiceGrpc.cs, ModelConfig.cs, ModelConfigGrpc.cs, etc.) under obj folder, such as 'obj\x64\Debug\net6.0'. The C# example, 'SimpleCSharpclient.cs', provides details on how to use it.
 
